@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reactive.Concurrency;
 using System.Reactive.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,6 +23,8 @@ namespace ReactiveUi
         private void Form1_Load(object sender, EventArgs e)
         {
             Observable.Interval(TimeSpan.FromSeconds(1))
+                .SubscribeOn(Scheduler.NewThread)
+                .ObserveOn(DispatcherScheduler.Instance) 
                 .Subscribe(_ => textBox1.Text = DateTime.Now.ToLongTimeString());
 
             var textChanged = Observable.FromEventPattern<EventHandler, EventArgs>

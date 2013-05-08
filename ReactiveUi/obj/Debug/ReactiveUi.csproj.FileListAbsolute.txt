@@ -15,3 +15,5 @@ c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bi
 c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.PlatformServices.xml
 c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\obj\Debug\ReactiveUi.exe
 c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\obj\Debug\ReactiveUi.pdb
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.Windows.Threading.dll
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.Windows.Threading.xml
