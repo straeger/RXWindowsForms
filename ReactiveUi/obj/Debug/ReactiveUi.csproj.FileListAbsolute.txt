@@ -1,0 +1,17 @@
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\ReactiveUi.exe.config
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\obj\Debug\ReactiveUi.csprojResolveAssemblyReference.cache
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\obj\Debug\ReactiveUi.Form1.resources
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\obj\Debug\ReactiveUi.Properties.Resources.resources
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\obj\Debug\ReactiveUi.csproj.GenerateResource.Cache
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\ReactiveUi.exe
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\ReactiveUi.pdb
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.Core.dll
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.Linq.dll
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.PlatformServices.dll
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.Core.xml
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.Interfaces.xml
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.Linq.xml
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\bin\Debug\System.Reactive.PlatformServices.xml
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\obj\Debug\ReactiveUi.exe
+c:\users\straeger\documents\visual studio 2012\Projects\ReactiveUi\ReactiveUi\obj\Debug\ReactiveUi.pdb
